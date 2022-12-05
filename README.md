@@ -1,6 +1,6 @@
-# Machine-Learning-Project
+# E-Commerce Online Shopping Predictions
 
-The aim of the project was to estimate the probability of sessions on the Commerce-E online shopping site to end with or without a purchase.
+The aim of the project was to estimate the probability of sessions on the E-Commerce online shopping site to end with or without a purchase.
 In the project we built a system that predicts the chances of a certain user, under certain conditions to make a purchase while browsing the site.
 The project deals with a binary classification problem, where each session can end with only 2 ways of classification.
 We have got Several features, for some we knew the meaning and others were anonymous. To maximize the use of all feature, we tried to reach conclusions about the meaning and interpretation of each feature.
