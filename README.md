@@ -9,4 +9,4 @@ In the project we used a lot of the material taught in the course and based on i
 As mentioned, for optimal prediction, we performed the same process on the test data and used the pre-processing of the training data in order to process them.
 It is important for us to note the circularity of the process. We performed several iterations of each step, where in each iteration we relied on the results of the previous iterations, and made considerations such as which values should be removed or how to normalize the data to ultimately give the best predictions from our models.
 
-Although we didn't delve into this in the project, in my opinion there is also great importance for a business understanding of an internet sales website as a result of the project we did to improve it's business performance.
+Although we didn't delve into this in the project, in our opinion there is also great importance for a business understanding of an internet sales website as a result of the project we did to improve it's business performance.
